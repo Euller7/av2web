@@ -1,0 +1,16 @@
+.conteudo-info{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-bottom: 130px;
+}
+
+.info-home span{
+    font-weight: 700;
+}
+
+.info-home{
+    text-align: center;
+    font-size: 30px;
+}
+
